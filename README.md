@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Wolf11221
-- 👀 I’m interested in m
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript
 
 <!---
 Wolf11221/Wolf11221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
